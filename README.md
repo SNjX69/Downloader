@@ -1,2 +1,3 @@
 # Downloader
-# Simple Tool To Download Important Programs
+# Simple Golang Tool To Download Important
+# Things In Your Computer Like Google Chrome
